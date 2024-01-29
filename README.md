@@ -23,7 +23,8 @@ Evaluation results on real-world AIS datasets show that our model consistently o
 
 ##
 ##### code implementation
-Code for AIS-ACNet has been implemented by modifying codes from Graph WaveNet (https://github.com/nnzhan/Graph-WaveNet)[1] and Sekhon and Flemming (2020) (https://github.com/coordinated-systems-lab/VesselIntentModeling) [2]
+Code for AIS-ACNet has been implemented by modifying codes from Graph WaveNet (https://github.com/nnzhan/Graph-WaveNet) [1] and Sekhon and Flemming (2020) (https://github.com/coordinated-systems-lab/VesselIntentModeling) [2]
 
 [1] Wu, Z., Pan, S., Long, G., Jiang, J., & Zhang, C. (2019). Graph wavenet for deep spatial-temporal graph modeling. arXiv preprint arXiv:1906.00121.
+
 [2] Sekhon, J., & Fleming, C. (2020, July). A spatially and temporally attentive joint trajectory prediction framework for modeling vessel intent. In Learning for Dynamics and Control (pp. 318-327). PMLR.
