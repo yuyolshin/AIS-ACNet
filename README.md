@@ -8,12 +8,16 @@ With the exponential growth in vessel traffic and the increasing complexity of m
 
 
 ## Model Architecture
+
 ![architecture_r2](https://github.com/yuyolshin/AIS-ACNet/assets/31876093/e7b6658a-36ba-4643-9c20-09af15201a38)
 
 ## Performance Comparison 
 #### Dataset
+
 - AIS data from Port of Houston, Texas, USA (2017.01)
+
 ![AIS_figure_houston](https://github.com/yuyolshin/AIS-ACNet/assets/31876093/d159dc4c-428c-41d3-ba68-e2894c402b4a)
+
 AIS trajectories in the coastal area of Port of Houston on January 4th, 2017
 
 #### Results
